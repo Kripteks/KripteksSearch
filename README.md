@@ -1,0 +1,2 @@
+# KripteksSearch
+Dosyada Metin Arama
