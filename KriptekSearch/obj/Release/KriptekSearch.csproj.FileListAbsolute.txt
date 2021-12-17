@@ -1,0 +1,10 @@
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Release\KriptekSearch.exe.config
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Release\KriptekSearch.exe
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Release\KriptekSearch.pdb
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.csproj.AssemblyReference.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.frmAnasayfa.resources
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.Properties.Resources.resources
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.csproj.GenerateResource.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.csproj.CoreCompileInputs.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.exe
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Release\KriptekSearch.pdb

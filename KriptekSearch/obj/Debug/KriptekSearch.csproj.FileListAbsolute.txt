@@ -1,0 +1,15 @@
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\KriptekSearch.exe.config
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\KriptekSearch.exe
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\KriptekSearch.pdb
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.frmAnasayfa.resources
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.Properties.Resources.resources
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.csproj.GenerateResource.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.csproj.CoreCompileInputs.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.exe
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.pdb
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\Cake.Powershell.dll
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\System.Management.Automation.dll
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\Cake.Powershell.pdb
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\bin\Debug\Cake.Powershell.xml
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.csproj.AssemblyReference.cache
+C:\Users\yazilim2\source\repos\Mucahid.DosyaArama\KriptekSearch\obj\Debug\KriptekSearch.csproj.CopyComplete
